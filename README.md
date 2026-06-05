@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-warm-embrace/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Slow Dance Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-warm-embrace/) |
+| **Get License** | [Official Music Licensing for Slow Dance Warm Embrace](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-warm-embrace/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2722)
 
 ---
 
