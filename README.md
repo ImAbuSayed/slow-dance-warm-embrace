@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your shadow falls on me
+> A midnight whisper like a warm acoustic breeze
+> No need to rush it, let the moment take its time
+> I got you close, now let me read between the lines
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
